@@ -1,0 +1,31 @@
+h1{
+    color:#ff0000;
+    text-align:center;
+    background-color:black;
+    }
+
+h2{
+    color:darkslateblue;
+    text-align:center;
+    background-color:darkgrey;
+}
+
+h3{
+    color:#0000ff;
+    }
+
+p{
+    color:#ff00ff;
+}
+
+body {
+    background-image : url(../images/授業画像６.jpg);
+    background-attachment : fixed;
+    background-position:right;
+    }
+table{
+    background-color:crimson;
+}
+ol{
+    background-image : url(../images/授業画像５.png);
+}

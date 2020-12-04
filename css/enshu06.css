@@ -4,13 +4,15 @@ h1{
     font-weight:bold;
     font-family:"Impact";
     text-align:center;
-    background-color:#444444;
-}
+    background-color:black;
+    }
 
 p{
-    background-color:yellow;
-}
+    background-color:gray;
+    }
 
 body {
-		background-image : url(../images/授業画像４.jpg);
-	}
+    background-image : url(../images/授業画像４.jpg);
+    background-attachment : fixed;
+    background-position:right;
+    }
