@@ -1,0 +1,199 @@
+div.title{
+    width:1000px;
+    height:50px;
+    font-size: 35px;
+    border: 5px solid;
+    border-color:yellow;
+    background-color:red;
+    color:white;
+    text-align:center;
+    font-weight: bolder;
+    margin:auto;
+    margin-bottom: 10px;
+}
+div.haikei{
+    width:1000px;
+    /*height:500px;*/
+    font-size: 0px;
+    margin:auto;
+}
+span.koumoku1{
+    display: inline-block;
+    width:250px;
+    height:320px;
+    vertical-align: top;
+    margin:auto;
+    /*margin-right: 25px;*/
+}
+div.menyu1{
+    background-image : url(../images/midori.png);
+    background-position:center;
+    width: 146px;
+    height: 95px;
+    border: 5px solid;
+    border-radius: 25px;
+    border-color: black;
+    background-color:white;
+    font-size: 50px;
+    vertical-align: top;
+    margin: auto;
+    margin-bottom: 10px;
+}
+div.menyu2{
+    background-image : url(../images/gin.png);
+    background-position:center;
+    width: 146px;
+    height: 95px;
+    border: 5px solid;
+    border-radius: 25px;
+    border-color: black;
+    background-color:white;
+    font-size: 50px;
+    vertical-align: top;
+    margin: auto;
+    margin-bottom: 10px;
+}
+div.menyu3{
+    background-image : url(../images/safa.png);
+    background-position:center;
+    width: 146px;
+    height: 95px;
+    border: 5px solid;
+    border-radius: 25px;
+    border-color: black;
+    background-color:white;
+    font-size: 50px;
+    vertical-align: top;
+    margin: auto;
+    margin-bottom: 10px;
+}
+div.menyu4{
+    background-image : url(../images/pa.png);
+    background-position:center;
+    width: 146px;
+    height: 95px;
+    border: 5px solid;
+    border-radius: 25px;
+    border-color: black;
+    background-color:white;
+    font-size: 50px;
+    vertical-align: top;
+    margin: auto;
+    margin-bottom: 10px;
+}
+div.menyu5{
+    background-image : url(../images/howa.png);
+    background-position:center;
+    width: 146px;
+    height: 95px;
+    border: 5px solid;
+    border-radius: 25px;
+    border-color: black;
+    background-color:white;
+    font-size: 50px;
+    vertical-align: top;
+    margin: auto;
+    margin-bottom: 10px;
+}
+div.menyu6{
+    background-image : url(../images/Y.png);
+    background-position:center;
+    width: 146px;
+    height: 95px;
+    border: 5px solid;
+    border-radius: 25px;
+    border-color: black;
+    background-color:white;
+    font-size: 50px;
+    vertical-align: top;
+    margin: auto;
+    margin-bottom: 10px;
+}
+div.menyu7{
+    background-image : url(../images/mun.png);
+    background-position:center;
+    width: 146px;
+    height: 95px;
+    border: 5px solid;
+    border-radius: 25px;
+    border-color: black;
+    background-color:white;
+    font-size: 50px;
+    vertical-align: top;
+    margin: auto;
+    margin-bottom: 10px;
+}
+div.menyu8{
+    background-image : url(../images/tate.png);
+    background-position:center;
+    width: 146px;
+    height: 95px;
+    border: 5px solid;
+    border-radius: 25px;
+    border-color: black;
+    background-color:white;
+    font-size: 50px;
+    vertical-align: top;
+    margin: auto;
+    margin-bottom: 10px;
+}
+span.koumoku2{
+    display: inline-block;
+    width:700px;
+    height:320px;
+    vertical-align: top;
+    margin-left: 50px;
+}
+div.bunsyou{
+    width: 700px;
+    height: 60px;
+    background-color:lightskyblue;
+    font-size: 20px;
+    text-align:left;
+    margin-bottom: 20px;
+}
+div.menyu1:hover{
+    background-image : url(../images/aka.png);
+}
+div.menyu2:hover{
+    background-image : url(../images/kin.png);
+}
+div.menyu3:hover{
+    background-image : url(../images/rubi.png);
+}
+div.menyu4:hover{
+    background-image : url(../images/dai.png);
+}
+div.menyu5:hover{
+    background-image : url(../images/bura.png);
+}
+div.menyu6:hover{
+    background-image : url(../images/X.png);
+}
+div.menyu7:hover{
+    background-image : url(../images/san.png);
+}
+div.menyu8:hover{
+    background-image : url(../images/ken.png);
+}
+div.footer{
+    width:1000px;
+    height:50px;
+    background-color:seagreen;
+    font-size: 25px;
+    text-align:left;
+    margin:auto;
+    margin-top:15px;
+    margin-bottom:15px;
+}
+a{
+    opacity: 0;
+}
+a.a{
+    opacity: 1;
+    color:yellow;
+}
+body {
+    background-image : url(../images/01.jpg);
+    background-attachment : fixed;
+}
